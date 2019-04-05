@@ -21,7 +21,7 @@
 <br>
 <br>
 
-### Running Python notebooks on your computer
+## Running Python notebooks on your computer
 
 ### Installation
    ```sh
