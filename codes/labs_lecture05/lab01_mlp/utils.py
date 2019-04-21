@@ -15,6 +15,7 @@ def show(X):
 
 
 
+
 def show_prob_mnist(p):
 
 	p=p.data.squeeze().numpy()
